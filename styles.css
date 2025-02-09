@@ -1,0 +1,4 @@
+.logo-img {
+    max-height: 115px; /* Adjust this based on your logo's aspect ratio */
+    width: auto; /* This ensures the logo keeps its aspect ratio */
+  }
